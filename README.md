@@ -1,5 +1,5 @@
 # Bang!
-## The videoclip presented here show the logic behind production of Anger Management itself:-
+## The videoclip presented here show the logic behind production of the PvE 2D Shooter game "Bang!":-
 
 |Run-Through             |
 :-------------------------:
